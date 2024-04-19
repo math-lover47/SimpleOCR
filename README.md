@@ -1,0 +1,2 @@
+# MainYouPudja
+AI project mcs
